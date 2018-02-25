@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CatalogTest</string>
+    <string name="hint_check">Ваше имя</string>
+    <string name="auth">Авторизация</string>
+    <string name="logout">Вы действительно хотите выйти из текущей учетной записи?</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">CANCEL</string>
+    <string name="address">Адрес</string>
+    <string name="area">Площадь</string>
+    <string name="price">Стоимость</string>
+    <string name="count_rooms">Кол-во комнат</string>
+    <string name="money">Стоимость за метр</string>
+    <string name="floor">Этаж</string>
+    <string name="additing">Подробнее</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="floor_error">Ошибка в поле этаж</string>
+    <string name="rooms_error">Ошибка в поле комнат</string>
+    <string name="price_error">Ошибка в поле цена</string>
+    <string name="area_error">Ошибка в поле площадь</string>
+    <string name="address_error">Укажите адрес пожалуйста</string>
+    <string name="new_object">Новый объект</string>
+</resources>
